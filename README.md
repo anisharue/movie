@@ -1,5 +1,5 @@
 # Movie Recommender
-### The is a simple movie recommender program which allows you to enter the description of a specific movie and matches it with a movie description in the movies.txt file with the highest similarity score using natural language processing.
+### The is a simple movie recommender program which tells you which movie to watch next if you have watched Planet Hulk and whichever movie has the highest similarity score will be recommended as the next movie to watch.
 
 ## Table of Contents
 ### Installation
