@@ -67,4 +67,3 @@ If the movies.txt file does not exist, or if there is an error reading or decodi
 
 ## Credits
 ### This project was created by Anisha Mandega.Feel free to contribute to this project by creating a pull request or reporting an issue
-This project is licensed under the MIT License. See the LICENSE file for more details.
