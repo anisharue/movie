@@ -26,9 +26,17 @@ $ python -m spacy download en_core_web_md
 ### 3. You can now run the code by using:
 $ python watch.py
 
-**If you would rather fetch the docker image here are the instructions:**
+## If you would rather fetch the docker image here are the instructions:
 ### First of all make sure that you have docker running on your pc by running the command docker
 $ run hello-world
+
+### Open you command prompt :
+
+### 1. download the image by using:
+$ docker pull anisharue/semantic
+
+### 2. To run the program you use:
+$ docker run anisharue/semantic
 
 ### Open you command prompt :
 
