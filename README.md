@@ -8,7 +8,8 @@
 ### Credits
 
 ## Installation
-### Assuming that you aleady have python installed on your pc if you dont please install it first before you continu.
+
+### Assuming that you aleady have python installed on your pc if you dont please install it first before you continue.
 
 ### To use the application ,follow the steps below:
 
@@ -33,7 +34,7 @@ $ python watch.py
 
 
 ## How it works
-The movie() function in the watch_movie.py code uses the spacy to process the movie descriptions and the user's input description. It then calculates the similarity between the input description and each movie description using the similarity() method.
+The movie() function in the watch.py code uses the spacy to process the movie descriptions and the user's input description(which is Planet Hulk). It then calculates the similarity between the input description and each movie description using the similarity() method.
 
 The movie with the highest similarity score is selected as the recommended movie, and the letter of the movie(e.g Movie A) and its decription are returned 
 
